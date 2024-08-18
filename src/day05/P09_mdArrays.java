@@ -26,5 +26,6 @@ public class P09_mdArrays {
         }
 
         System.out.println("Tüm elemanlar toplamı: "+toplam);
+
     }
 }
